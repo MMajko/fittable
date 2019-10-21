@@ -63,7 +63,7 @@
     "chokidar-cli": "^1.1.0",
     "css-loader": "^0.21.0",
     "dotenv": "^1.2.0",
-    "eslint": "^1.7.3",
+    "eslint": "^4.18.2",
     "eslint-config-standard": "^4.4.0",
     "eslint-config-standard-react": "^1.1.0",
     "eslint-plugin-react": "^3.6.3",
